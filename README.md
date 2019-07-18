@@ -1,2 +1,2 @@
-# Inclunometer
+# Inclinometer
 傾斜計
